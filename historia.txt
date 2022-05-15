@@ -1,3 +1,4 @@
 Hola mi nombre es Carlos Cañón, tengo 23 años, soy economista de la Universidad del Rosario
 Actualmente, estudio en Platzi. Estoy buscando trabajo en temas relacionados a manejo de bases de datos 
 R y Pyhton.
+Por ahora lee mucho.
