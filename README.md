@@ -8,4 +8,9 @@ Además agrego yo
 * Valverde
 * Vinicius
 * K. Benzema
+* Militao
+* Kroos
+* Alaba
+* Dani Carvajal
+* Courtois
 
